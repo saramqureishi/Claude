@@ -1,0 +1,9 @@
+Company,Priority (High/Med/Low),Sector,Why Target,Batch
+# Paste your ~300 companies below (one per row). Fill the first column at minimum.
+# Priority/Sector/Why Target are optional but help Claude rank results.
+# "Batch" lets you group ~25 companies per search session (write 1, 2, 3...) to avoid LinkedIn rate limits.
+# Example rows (delete these):
+Deloitte,High,Consulting,Big 4 - AI & Data practice,1
+EY,High,Consulting,Brunel alum contact (Vishal),1
+HSBC,High,Banking,Brunel alum contact (Ioana),1
+Quantexa,High,Data/AI,Entity resolution - direct skill match,1
