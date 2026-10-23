@@ -26,7 +26,11 @@ school/employer/background).
   RAG chatbot built on AWS, Tableau, client-facing consulting.
 
 ## TARGET CRITERIA
-- Companies: use the list I provide in companies.csv (work through ONE "Batch" per session).
+- Companies: use the list I provide in companies.csv (523 companies, grouped into
+  23 Batches). Work through ONE "Batch" per session. The `Flag` column means:
+  blank = fine; `CHECK` = may need clearance/residency, verify before applying;
+  `NOT ELIGIBLE` = requires UK citizenship/clearance — SKIP for jobs, but a data
+  person there can still be worth a networking chat.
 - Roles: Graduate/Junior Data Analyst, Data Engineer, Data Scientist, AI Engineer,
   ML Engineer, AI & Data Consultant, Analytics Graduate.
 - People to contact — aim for this MIX out of 15 (hard rules):
