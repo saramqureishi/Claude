@@ -31,8 +31,18 @@ school/employer/background).
   blank = fine; `CHECK` = may need clearance/residency, verify before applying;
   `NOT ELIGIBLE` = requires UK citizenship/clearance — SKIP for jobs, but a data
   person there can still be worth a networking chat.
-- Roles: Graduate/Junior Data Analyst, Data Engineer, Data Scientist, AI Engineer,
-  ML Engineer, AI & Data Consultant, Analytics Graduate.
+- Roles — PRIORITISE junior / entry-level / experienced-hire roles OVER structured
+  graduate schemes. Reason: grad schemes are blind applications that can't be
+  referred, whereas junior team roles CAN be referred and suit me well. Search these
+  titles: "Junior Data Analyst", "Data Analyst", "Junior Data Engineer", "Data
+  Engineer", "Junior Data Scientist", "Data Scientist", "Junior AI Engineer", "AI
+  Engineer", "Junior ML Engineer", "ML Engineer", "Analytics Engineer", "Associate
+  Data ...", "Entry level data". Only include grad schemes if clearly open to
+  2027 + visa sponsorship. Tag each job in the tracker as `Junior role` or
+  `Grad scheme` so I can tell them apart.
+- SECTOR FOCUS for this run: do NOT concentrate on banking. If I ask for a specific
+  Batch, use it. Otherwise prioritise non-banking sectors (Tech & AI, IT services /
+  India-UK sponsors, Pharma, FMCG, Retail) where I have strong skill matches.
 - People to contact — aim for this MIX out of 15 (hard rules):
   - MAX 3 recruiters / early-careers TA.
   - Prioritise: (a) recent grads (1st–2nd yr) now IN these roles, (b) hiring
