@@ -1,0 +1,4 @@
+# Audit findings — roles DISCOVERED during the company audit (NOT applications).
+# Claude Code fills this as it works through batches. You then decide what to apply to;
+# when you apply, log it in application_tracker.csv (the separate, applications-only file).
+Batch,Company,Sector,Grad/Junior Role Found?,Role Title,Posting URL,Location,Sponsorship Signal,Fit (High/Med/Low),Notes
