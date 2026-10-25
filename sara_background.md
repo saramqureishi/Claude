@@ -27,20 +27,19 @@
 ## ⚠️ MSc vs. SELF-DRIVEN LEARNING — THE THING CLAUDE KEEPS GETTING WRONG
 Keep these TWO buckets separate. Do NOT describe bucket B as "part of my MSc".
 
-### Bucket A — Actually part of my MSc (coursement/assessed)
+### Bucket A — Actually part of my MSc (coursework/assessed)
 - MSc modules above.
 - MSc Group Project — Respiratory Trends Prediction (CS5812): integrated 4 datasets
   (weather, air quality, traffic, UKHSA health); I did data cleaning, EDA, built
   KNN + a 1D CNN. Honest about limitations.
-- Modern Data Engineering (technical coursework): ELT in Python/SQL into Snowflake,
-  dbt models (staging/intermediate/mart) with tests, Airflow DAGs in Docker,
-  incremental loading/CDC with Snowflake Streams & Tasks.
-  [⚠️ CONFIRM LABEL: is this purely MSc coursework, purely self-study, or a mix?]
 
 ### Bucket B — Self-driven, OUTSIDE/beyond the degree (my own initiative)
 - Personalised RAG chatbot on AWS Bedrock — built for my AWS AI Practitioner cert /
   own interest, NOT MSc coursework. A PROOF-OF-CONCEPT, not production. Embeddings →
   vector store → LLM, ~95% answer relevance, serverless, with an evaluation loop.
+- Modern Data Engineering (self-learning, NOT coursework): ELT in Python/SQL into
+  Snowflake, dbt models (staging/intermediate/mart) with tests, Airflow DAGs in
+  Docker, incremental loading/CDC with Snowflake Streams & Tasks.
 - Teaching myself the Snowflake stack; working toward SnowPro Core certification.
 - AI Safety Collab '25 (governance track): independent research, interactive global
   risk map, Special Recognition (International Impact Excellence).
@@ -71,11 +70,8 @@ AI Safety Fundamentals (BlueDot); Rafay Certified Associate.
 
 ## VISA / RIGHT TO WORK (for my eyes / filtering — NEVER mention in outreach)
 - UK Student visa (expires ~Aug 2027). Eligible for Graduate Route after MSc (~April 2027).
-- ⚠️ My Graduate Route will likely be 18 MONTHS (applications on/after 1 Jan 2027),
-  so it won't cover a 2-year+ scheme. => PRIORITISE employers that SPONSOR (Skilled Worker).
 - HARD BLOCKERS (auto-reject): British citizenship required, SC/DV clearance,
-  "5 years UK residency", National Security Vetting, "no sponsorship ever",
-  3-year no-sponsorship contracts. Defence/aerospace/gov (BAE, MBDA, etc.) are out.
+  "5 years UK residency", National Security Vetting.
 
 ## JOB SEARCH — MY LANE
 - Target: graduate/junior Data Analyst, Data Engineer, Data Scientist, AI & Data
@@ -86,9 +82,6 @@ AI Safety Fundamentals (BlueDot); Rafay Certified Associate.
 - Avoid: hardcore independent SWE, quant/HFT, PhD-level ML research, live-coding
   gauntlets, CV/robotics, actuarial/accountancy tracks (ACA/ACCA/IFoA),
   apprenticeships (residency-funding gate).
-- Differentiators to highlight: real client-facing consulting + promoted in 4 months;
-  applied RAG/GenAI PoC; AI governance/safety work (rare — good for responsible-AI
-  roles); self-driven learning (taught myself the Snowflake stack).
 
 ## RULES FOR CLAUDE WHEN WRITING OUTREACH / DRAFTS
 1. NEVER describe Bucket B (RAG, Snowflake self-study, certs) as "part of my MSc".
