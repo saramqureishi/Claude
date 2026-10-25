@@ -2,3 +2,7 @@
 # Outcome options: Not Applied / Applied / Rejected / Assessment / Interview / Offer / No Response
 # Stage Reached: where it ended, e.g. "CV screen", "online test", "video interview", "AC", "final"
 Company,Sector,Role Applied For,Applied?,Outcome,Stage Reached,Date,Sponsorship Confirmed?,Notes
+Accenture,Management Consulting,London AI & Data Graduate 2027-2028,Y,Rejected,After assessment,,,"Likely volume-based; felt assessment went well. Move on."
+Capgemini,Management Consulting,Enterprise Data & Analytics Graduate,Y,Rejected,,,,"Blocker: requires 3 yrs UK residency (arrived Jan 2026). Eligibility gate, not ability. Role also now closed."
+Deloitte,Accounting & Advisory,Data & AI Consulting - AI & Data Graduate Scheme 2027,Y,Assessment,Assessment done - awaiting result,,,"STILL LIVE. Do not re-apply; await outcome."
+PwC,Accounting & Advisory,Graduate Technology and AI - London (ref EC202632),Y,Disputed,Shows 'Candidate withdrew' 20 Sep 2026 - I did NOT withdraw,2026-09-20,,"CHASE: email student recruitment re withdrawal. Leeds opening is open."
