@@ -122,8 +122,13 @@ Ask me to paste the exact text of whichever you need.
 - Sigma Labs (train-and-deploy consultancy) — MUST check their eligibility page for right-to-work (these firms usually need settled status); Feb cohort likely clashes with MSc finishing ~April 2027. Coding essay drafted (see sect 13).
 - **LESSON: always check the visa/right-to-work line FIRST. Many UK grad schemes (insurers, some consultancies) need existing right to work and don't sponsor — instant skip. Prioritise known sponsors: Shell, Aon, Deloitte, MUFG, big banks (but NO banks — Sara can't work in a bank), Medpace.**
 
+## STUDY / UPSKILLING (in progress)
+- **SnowPro Core certification** — actively studying, exam ~December 2026. On-strategy and genuinely useful. Keep this a priority.
+- **Deep-ML / LeetCode** — Sara is considering ML coding practice. Honest guidance given: her target roles (data/analyst/consulting grad schemes) rarely need from-scratch ML; LeetCode-easy + SQL is more relevant to their coding screens than Deep-ML. Deep-ML only matters for ML-engineer/research roles she's mostly NOT targeting. Fine as a small side-interest, but should NOT crowd out applications or SnowPro Core. Keep in proportion.
+- Which roles test from-scratch ML: ML Engineer, Research/Applied Scientist, quant, some "AI Engineer" roles. NOT: data analyst, data consultant, most consulting/data grad schemes (those are light SQL/aptitude, occasionally basic Python).
+
 ## 13. OPEN QUESTIONS / TO DECIDE
-1. **MOST IMPORTANT: actually SUBMIT a ready application.** Five are ready (Avis, Aon, Shell, Medpace, T&T). Sara keeps screening new roles instead of sending ready ones. Push her to submit Shell / Aon / Deloitte.
+1. **Applications: Sara HAS applied to several and is ACTIVELY APPLYING (ongoing).** Keep tailoring CVs per role and screening eligibility (visa line first). She no longer needs pushing to "just submit" — she's doing it.
 2. **Verify the UK grade equivalent** of CGPA 6.73/10 via WES / UK ENIC before submitting forms that check evidence (Aon and Shell both require a 2:1).
 3. **Start date on forms:** MSc finishes ~April 2027, so "March 2027 (must have fully completed studies)" is likely NOT safe — pick September 2027 unless completion confirmed.
 4. **Sigma Labs:** confirm right-to-work eligibility + February cohort timing before applying. Coding essay drafted (sect 13b).
