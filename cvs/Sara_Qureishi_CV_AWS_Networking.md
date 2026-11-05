@@ -77,6 +77,17 @@ Hands-on build of a modern data-engineering stack:
   documents to improve factual grounding and relevance; evaluated retrieval quality and answer
   relevance to drive iterative improvement.
 
+### Cloud Security with AWS IAM *(self-driven, hands-on project)*
+- Set up production and development EC2 environments and wrote a custom IAM policy enforcing
+  tag-based, least-privilege access control (allow actions on development, restrict production,
+  deny tag modification).
+- Managed access with IAM user groups and users, and validated the policy with the IAM Policy
+  Simulator. Directly relevant to governed data access and column-level security.
+
+### Serverless Conversational AI — Amazon Lex & Lambda *(self-driven, hands-on project)*
+- Built a serverless chatbot with intent recognition and custom slots, connected to AWS Lambda for
+  real-time backend logic, with context management across interactions and IAM-based permissions.
+
 ### Respiratory Trends Prediction — MSc Group Project
 - Integrated four real-world datasets (weather, air quality, traffic and UKHSA health surveillance);
   performed cleaning, EDA and feature engineering; built and evaluated predictive models (KNN and a
