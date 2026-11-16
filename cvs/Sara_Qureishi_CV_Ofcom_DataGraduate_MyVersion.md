@@ -19,7 +19,7 @@ MSc Artificial Intelligence candidate with graduate consulting experience helpin
 
 ## TECHNICAL SKILLS
 - **Data & Analytics:** SQL, data analysis, statistical and exploratory analysis, data quality assessment, insight generation, data modelling, analytics engineering, ETL pipelines, data warehousing (Snowflake, SAP HANA Cloud), dashboards (Power BI, Tableau, Plotly), Excel
-- **Programming:** SQL (strongest skill); R (MSc coursework: data quality checks, exploratory analysis, modelling, R Markdown reports); Python (Pandas, NumPy, scikit-learn), applied and intermediate level
+- **Programming:** SQL (strongest skill); R (MSc coursework: data quality checks, exploratory analysis, modelling, R Markdown reports); Python (Pandas, NumPy, scikit-learn), applied and intermediate level; Git for version control
 - **AI & GenAI:** machine learning, classification, clustering, predictive modelling, model evaluation, NLP, embeddings, retrieval-augmented generation (RAG), generative AI, Large Language Models (LLMs)
 - **Cloud & Platforms:** AWS (Bedrock, Lambda, Lex), Microsoft Azure, Snowflake, Palantir Foundry (awareness); awareness of cloud/hosting and data architecture concepts
 - **Data & AI strategy / governance:** responsible AI, AI governance, data quality and validation

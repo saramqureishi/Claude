@@ -33,8 +33,7 @@ audiences. I am careful about data protection and about stating the limits of an
   evaluation, interpreting results and stating limitations
 - **SQL and Python:** SQL (joins, aggregations, window functions) as my strongest skill; Python (Pandas,
   NumPy, scikit-learn) at an applied, intermediate level
-- **Version control and documentation:** Git and GitHub with a branch-based workflow; documented,
-  commented code
+- **Version control:** Git
 - **Data visualisation and communication:** Tableau, Power BI, Plotly, ggplot-style charts; presenting
   findings to non-technical audiences
 - **Data protection:** access control and least-privilege policies (AWS IAM), awareness of GDPR and secure
@@ -78,7 +77,7 @@ Delivered enterprise data and analytics work within Pythian's Data Practice, wor
 
 ### Modern Data Engineering - Snowflake, dbt & Airflow *(self-driven, in my own time)*
 - Built ELT pipelines from AWS S3 into Snowflake and a dbt project (staging and mart models,
-  bronze/silver/gold) version-controlled in GitHub, with Airflow orchestration in Docker and incremental
+  bronze/silver/gold) with Airflow orchestration in Docker and incremental
   loading.
 
 ### AI Safety Collab '25 - Governance Track *(independent research)*

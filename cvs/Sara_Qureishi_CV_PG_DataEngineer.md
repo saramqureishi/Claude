@@ -35,7 +35,7 @@ are not technical.
   (staging and mart models, tests, macros), Apache Airflow, Snowflake Streams and Tasks, Snowpipe
 - **LLM applications:** retrieval-augmented generation (RAG), embeddings, prompt design, evaluating LLM
   answers, conversational agents (AWS Bedrock, Amazon Lex), MCP connection to data in a guided lab
-- **Software practice:** Git and GitHub (branch-based workflow), documented and commented code, Docker
+- **Software practice:** Git (version control), Docker
   (containerised Airflow environment)
 - **Cloud:** AWS (S3, Lambda, Bedrock, IAM, Athena), Microsoft Azure fundamentals, Snowflake
 - **Governance and security:** least-privilege access policies (AWS IAM), data validation and quality
@@ -66,7 +66,7 @@ Delivered enterprise data and analytics work within Pythian's Data Practice, wor
   integrations, external stages, COPY INTO and Snowpipe auto-ingest, parsing semi-structured data with
   VARIANT and LATERAL FLATTEN.
 - Developed a dbt project with staging and mart models, sources, seeds, reusable macros and incremental
-  models in a bronze/silver/gold design, version-controlled in GitHub with a branch-based workflow.
+  models in a bronze/silver/gold design.
 - Set up a containerised Apache Airflow environment (Docker, Astro CLI) and wrote a Python DAG that runs
   Snowflake MERGE loads through an Airflow Snowflake connection, monitoring runs in the Airflow UI.
 - Implemented incremental loading and change data capture with Snowflake Streams and Tasks, plus dbt

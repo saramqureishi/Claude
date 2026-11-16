@@ -52,7 +52,7 @@ business questions into clear insight.
 - Built ELT pipelines ingesting data from cloud storage into Snowflake, parsing semi-structured data,
   and developed dbt models with tests and documentation in a staging-to-mart design.
 - Orchestrated loads with Apache Airflow DAGs in Docker and practised incremental loading with
-  Snowflake Streams and Tasks, version-controlling the project in GitHub.
+  Snowflake Streams and Tasks.
 - Directly relevant to building and maintaining data assets and reporting views on a cloud data platform.
 
 ### Respiratory Trends Prediction — MSc Group Project (real-world data)
