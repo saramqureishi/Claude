@@ -35,8 +35,6 @@ online safety and responsible AI, and I want to apply data science to real regul
   evaluating LLM outputs
 - **Visualisation and communication:** Tableau, Power BI, Plotly, interactive maps and dashboards;
   presenting findings to non-technical audiences
-- **Reproducible work:** Git and GitHub (branch-based workflow), documented and commented code, dbt and
-  Airflow pipelines, R Markdown
 - **Cloud:** Microsoft Azure fundamentals, AWS (S3, Lambda, Bedrock, IAM, Athena), Snowflake
 
 ---
@@ -72,8 +70,8 @@ online safety and responsible AI, and I want to apply data science to real regul
   (around 95% on my test set), to check answers instead of assuming they were right.
 
 ### Modern Data Engineering - Snowflake, dbt & Airflow *(self-driven, in my own time)*
-- Built ELT pipelines into Snowflake and a dbt project (bronze/silver/gold) version-controlled in GitHub,
-  with Airflow orchestration in Docker and incremental loading.
+- Built ELT pipelines into Snowflake and a dbt project (bronze/silver/gold), with Airflow orchestration in
+  Docker and incremental loading.
 
 ---
 

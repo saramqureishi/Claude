@@ -21,7 +21,6 @@ MSc Artificial Intelligence candidate with graduate consulting experience helpin
 - **Data & Analytics:** SQL, data analysis, statistical and exploratory analysis, data quality assessment, insight generation, data modelling, analytics engineering, ETL pipelines, data warehousing (Snowflake, SAP HANA Cloud), dashboards (Power BI, Tableau, Plotly), Excel
 - **Programming:** SQL (strongest skill); R (MSc coursework: data quality checks, exploratory analysis, modelling, R Markdown reports); Python (Pandas, NumPy, scikit-learn), applied and intermediate level
 - **AI & GenAI:** machine learning, classification, clustering, predictive modelling, model evaluation, NLP, embeddings, retrieval-augmented generation (RAG), generative AI, Large Language Models (LLMs)
-- **Reproducible work:** Git and GitHub (branch-based workflow), documented and commented code, dbt and Airflow pipelines, R Markdown
 - **Cloud & Platforms:** AWS (Bedrock, Lambda, Lex), Microsoft Azure, Snowflake, Palantir Foundry (awareness); awareness of cloud/hosting and data architecture concepts
 - **Data & AI strategy / governance:** responsible AI, AI governance, data quality and validation
 - **Consulting:** business analysis, requirements gathering, stakeholder management, storytelling, communicating technical concepts to non-technical audiences, agile delivery, cross-functional teamwork
@@ -63,7 +62,7 @@ MSc Artificial Intelligence candidate with graduate consulting experience helpin
 - Evaluated retrieval quality and response relevance to support iterative improvement of the system.
 
 ### Modern Data Engineering - Snowflake, dbt & Airflow *(self-driven, in my own time)*
-- Built ELT pipelines into Snowflake and a dbt project (bronze/silver/gold) version-controlled in GitHub, with Airflow orchestration in Docker and incremental loading.
+- Built ELT pipelines into Snowflake and a dbt project (bronze/silver/gold), with Airflow orchestration in Docker and incremental loading.
 
 ### Conversational Analytics on AWS *(guided hands-on workshop, November 2026)*
 - Completed a full-day AWS lab building a conversational analytics stack: data in S3 and Iceberg tables, queried with Athena and Redshift, shown in Amazon Quick dashboards, with an AI chat agent answering questions in natural language and governance controlled through Lake Formation.
