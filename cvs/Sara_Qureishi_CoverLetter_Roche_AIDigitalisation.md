@@ -18,7 +18,7 @@ What stands out to me in this role is that agentic AI is built with human-in-the
 - **I have built and tested a RAG system.** My chatbot on AWS Bedrock answers from source documents, and I added an evaluation loop that measured answer relevance, which reached around 95% on my test set. The lesson I took from it is that fluent answers still need checking.
 - **I have worked with agents and MCP.** In a recent hands-on AWS lab I set up an MCP connection and chat agents that answer questions over governed data, with access controlled through Lake Formation.
 - **I know how to work with end users.** At Pythian I gathered requirements from clients and translated them into data priorities, and I moved 600+ database objects onto a new platform with testing and validation at every step. That is close to the process analysis and data modernisation this role describes.
-- **I document my work and use version control.** I write up my projects on my portfolio site and use Git for version control.
+- **I document my work and use version control.** My Snowflake, dbt and Airflow project is in GitHub with a branch-based workflow.
 
 I haven't worked in pharma, and I'm new to GxP. I would learn the requirements early, ask questions when I'm unsure and escalate concerns promptly.
 

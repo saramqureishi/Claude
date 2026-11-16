@@ -29,7 +29,7 @@ online safety and responsible AI, and I want to apply data science to real regul
 - **Data analysis and statistics:** data cleaning and quality assessment, exploratory analysis,
   statistical modelling, classification, clustering, model evaluation, stating assumptions and limits
 - **R and Python:** R (MSc coursework: data quality, exploratory analysis, modelling, R Markdown reports);
-  Python (Pandas, NumPy, scikit-learn) at an applied, intermediate level; Git for version control
+  Python (Pandas, NumPy, scikit-learn) at an applied, intermediate level
 - **SQL:** joins, aggregations, window functions, query optimisation; my strongest skill
 - **Text and language models:** NLP, embeddings, retrieval-augmented generation, intent recognition,
   evaluating LLM outputs

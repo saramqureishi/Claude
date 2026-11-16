@@ -51,7 +51,8 @@ Built a modern data-engineering stack end to end to learn the tooling hands-on:
   integrations, external stages, COPY INTO and Snowpipe auto-ingest (S3 to SQS event notifications),
   parsing semi-structured data with VARIANT and LATERAL FLATTEN.
 - Developed a dbt project on Snowflake with staging and mart models, sources, seeds, reusable macros
-  and incremental models in a bronze/silver/gold design.
+  and incremental models in a bronze/silver/gold design, version-controlled in GitHub with a
+  branch-based workflow.
 - Set up a containerised Apache Airflow environment (Docker, Astro CLI) and wrote a Python DAG that
   runs Snowflake MERGE loads through an Airflow Snowflake connection, monitoring runs in the Airflow UI.
 - Implemented incremental loading and change data capture with Snowflake Streams and Tasks, plus dbt

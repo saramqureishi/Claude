@@ -9,7 +9,8 @@ MSc Artificial Intelligence candidate with around 1.5 years of professional data
 analytics experience, applying for the Junior Data Engineer role at EDF Trading. At Pythian I worked on
 a large SAP HANA Cloud migration, building and optimising ETL processes and validating data quality.
 Alongside my MSc I have built a modern data stack in my own time: ELT pipelines from AWS S3 into
-Snowflake, dbt models in a bronze/silver/gold design, and Airflow orchestration in Docker. I care about reliable, well-checked data, and I learn new tools quickly.
+Snowflake, dbt models in a bronze/silver/gold design, and Airflow orchestration in Docker, all
+version-controlled in GitHub. I care about reliable, well-checked data, and I learn new tools quickly.
 
 ---
 
@@ -31,7 +32,7 @@ Snowflake, dbt models in a bronze/silver/gold design, and Airflow orchestration 
   profile analysis), stored procedures and UDFs in Snowflake Scripting
 - **Python:** Pandas, NumPy, scikit-learn, Airflow DAGs - beginner to intermediate, applied to data
   processing and analysis
-- **Tools:** dbt, Apache Airflow, Docker, Git (version control), Snowflake Streams and
+- **Tools:** dbt, Apache Airflow, Docker, Git and GitHub (branch-based workflow), Snowflake Streams and
   Tasks, Snowpipe
 - **Cloud & storage:** AWS (S3, Lambda, Bedrock, IAM), Microsoft Azure fundamentals; object storage,
   Apache Iceberg tables and lakehouse concepts (hands-on workshop)
@@ -49,7 +50,8 @@ Snowflake, dbt models in a bronze/silver/gold design, and Airflow orchestration 
   storage integrations, external stages, COPY INTO and Snowpipe auto-ingest (S3 to SQS event
   notifications), parsing semi-structured data with VARIANT and LATERAL FLATTEN.
 - Developed a dbt project on Snowflake with staging and mart models, sources, seeds, reusable macros
-  and incremental models in a bronze/silver/gold (medallion) design, with dbt tests for data quality.
+  and incremental models in a bronze/silver/gold (medallion) design, with dbt tests for data quality,
+  version-controlled in GitHub with a branch-based workflow.
 - Set up a containerised Apache Airflow environment (Docker, Astro CLI) and wrote a Python DAG that runs
   Snowflake MERGE loads through an Airflow Snowflake connection, monitoring runs in the Airflow UI.
 - Implemented incremental loading and change data capture using Snowflake Streams and MERGE, automated

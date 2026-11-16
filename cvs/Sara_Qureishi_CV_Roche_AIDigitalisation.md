@@ -29,7 +29,7 @@ oversight, access control and auditability, and I document my work so others can
   AI coding assistants to write and review code
 - **Data & integration:** SQL (joins, aggregations, window functions), working with structured and
   unstructured data (CSV, JSON, Parquet, documents), ETL/ELT, Snowflake, SAP HANA Cloud
-- **Programming:** Python (Pandas, NumPy, scikit-learn) - applied/intermediate; Git
+- **Programming:** Python (Pandas, NumPy, scikit-learn) - applied/intermediate; Git and GitHub
 - **Cloud & security:** AWS (S3, Lambda, Bedrock, IAM), access control and least-privilege policies,
   Microsoft Azure fundamentals
 - **Governance & responsible AI:** AI governance research, human-in-the-loop thinking, data quality and
@@ -59,7 +59,7 @@ oversight, access control and auditability, and I document my work so others can
 
 ### Modern Data Engineering - Snowflake, dbt & Airflow *(self-driven, in my own time)*
 - Built ELT pipelines from AWS S3 into Snowflake, a dbt project with staging and mart models
-  (bronze/silver/gold) and Airflow DAGs in Docker, with incremental loading
+  (bronze/silver/gold) version-controlled in GitHub, and Airflow DAGs in Docker, with incremental loading
   using Snowflake Streams and Tasks.
 
 ### Cloud Security with AWS IAM *(self-driven, hands-on project)*

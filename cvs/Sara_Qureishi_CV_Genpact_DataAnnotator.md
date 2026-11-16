@@ -71,7 +71,7 @@ migration, modelling, integration and quality-assurance activities.
 
 ### Modern Data Engineering - Snowflake, dbt & Airflow *(self-driven, in my own time)*
 - Built ELT pipelines into Snowflake and a dbt project with staging and mart models (bronze/silver/gold),
-  sources, macros, incremental models and data tests.
+  sources, macros, incremental models and data tests, version-controlled in GitHub.
 - Orchestrated loads with Apache Airflow DAGs in Docker, and implemented incremental loading and change
   data capture with Snowflake Streams and Tasks.
 
