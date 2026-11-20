@@ -42,15 +42,14 @@ AI coding assistants daily and I check what they produce.
 
 ## PROFESSIONAL EXPERIENCE
 
-### Teqbit - Technical Consultant (Contract, project-based) | [START MONTH YEAR] - [END MONTH YEAR]
+### Teqbit Technologies - Technical Consultant (Contract, project-based) | Aug 2023 - Jan 2026
 *Contract work completed in separate projects, not continuous full-time employment.*
-- [Describe a project you worked on, e.g. "Supported a data migration project, working with [systems or
-  data] and SQL to move and validate data."]
-- [Describe a second true task, e.g. "Worked with AWS and Azure cloud environments in support of client
-  solutions."]
-- [Describe working with the team or client, if true.]
-<!-- FILL THESE WITH FACTS YOU CAN SHOW WITH YOUR CONTRACT AND DOCUMENTS. DELETE ANY BULLET THAT
-     ISN'T TRUE. NO METRICS UNLESS YOU CAN PROVE THEM. -->
+- Supported a data migration project, using SQL to check and transform data and validating migrated data
+  for accuracy and consistency.
+- Investigated defects and worked with technical teams to resolve issues.
+- Gathered requirements and translated them into data-delivery tasks.
+<!-- CHECK EVERY LINE AND THE DATES AGAINST YOUR CONTRACT. DELETE ANY BULLET THAT ISN'T TRUE FOR
+     TEQBIT. NO METRICS UNLESS YOU CAN PROVE THEM. -->
 
 ### Pythian - Graduate SAP Analytics Consultant | May 2022 - August 2023 (Hyderabad)
 Delivered enterprise data and analytics work within Pythian's Data Practice, working directly with clients.
